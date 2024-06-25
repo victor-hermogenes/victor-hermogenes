@@ -1,17 +1,27 @@
-- 👋 Hi, I’m @victor-hermogenes
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python, java, api, html, css and git
-- 💞️ I’m looking to collaborate on everything that will help me get experience as a dev and problem solver
-- 📫 How to reach me:
-- https://br.linkedin.com/in/victor-gonzalez-hermogenes-449789193
-- https://www.facebook.com/Victor.Hermos/
-- victorltrgh@gmail.com
-- +55 47 99151-7762
+# Victor Gonzalez Hermogenes
 
-Feel free to follow me, i'll follow you back =)
-Also, let's build things together, i would love to help you with your projects.
+Hello! I'm Victor, an advanced Python developer passionate about learning new programming languages and discovering new methods to improve my work. I'm always excited to contribute to interesting projects and collaborate with fellow developers.
 
-<!---
-victor-hermogenes/victor-hermogenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact Me
+
+- **LinkedIn**: [Victor Gonzalez Hermogenes](https://br.linkedin.com/in/victor-gonzalez-hermogenes-449789193)
+- **Facebook**: [Victor Hermos](https://www.facebook.com/Victor.Hermos/)
+- **Email**: victorltrgh@gmail.com
+- **Phone**: +55 47 99151-7762
+
+## Skills
+
+- **Programming Languages**: Python (Advanced), [list any other languages you're learning or interested in]
+- **Technologies**: [List relevant technologies, frameworks, or tools you are proficient in]
+- **Interests**: Collaborative projects, learning new languages, exploring innovative work methods
+
+## Goals
+
+- Contribute to meaningful open-source projects
+- Continuously improve my coding skills
+- Learn and master new programming languages
+- Explore and implement new methodologies to enhance productivity
+
+Feel free to reach out if you'd like to collaborate on a project, or if you just want to chat about tech and programming!
+
+Thanks for visiting my profile!
