@@ -1,27 +1,39 @@
-# Victor Gonzalez Hermogenes
+Hey! I'm Victor — a developer with strong experience in process automation, financial operations, and system integration, now expanding into full-scale software development. My core stack includes Python, JavaScript, SQL, and Deluge (Zoho), and I’ve worked with tools like Wrike, Zoho CRM, and Zoho Books to deliver real-world solutions that drive efficiency and reduce manual work.
 
-Hello! I'm Victor, an advanced Python developer passionate about learning new programming languages and discovering new methods to improve my work. I'm always excited to contribute to interesting projects and collaborate with fellow developers.
+I’m passionate about building — not just automating. Whether it's scripting, developing backend logic, integrating platforms, or designing smarter workflows, I aim to deliver systems that scale, solve problems, and actually help teams move faster.
 
-## Contact Me
+Contact Me
+LinkedIn: Victor Gonzalez Hermogenes
 
-- **LinkedIn**: [Victor Gonzalez Hermogenes](https://br.linkedin.com/in/victor-gonzalez-hermogenes-449789193)
-- **Facebook**: [Victor Hermos](https://www.facebook.com/Victor.Hermos/)
-- **Email**: victorltrgh@gmail.com
-- **Phone**: +55 47 99151-7762
+Facebook: Victor Hermos
 
-## Skills
+Email: victorltrgh@gmail.com
 
-- **Programming Languages**: Python (Advanced), [list any other languages you're learning or interested in]
-- **Technologies**: [List relevant technologies, frameworks, or tools you are proficient in]
-- **Interests**: Collaborative projects, learning new languages, exploring innovative work methods
+Phone: +55 47 99151-7762
 
-## Goals
+Skills
+Languages: Python (Advanced), JavaScript, SQL, VBA
 
-- Contribute to meaningful open-source projects
-- Continuously improve my coding skills
-- Learn and master new programming languages
-- Explore and implement new methodologies to enhance productivity
+Zoho: CRM, Books, Deluge, Client Scripts, Workflow Automation
 
-Feel free to reach out if you'd like to collaborate on a project, or if you just want to chat about tech and programming!
+Development: API development/integration, backend scripting, process design
 
-Thanks for visiting my profile!
+Tools: Wrike, Git, REST APIs, NFe automation, CRM customization
+
+Interests
+Clean, maintainable software that solves real problems
+
+Learning full-stack development principles
+
+Building useful tools, not just clever ones
+
+Collaborating with people who enjoy shipping solid features
+
+Goals
+Grow as a developer, not just an automator
+
+Work on projects that involve system architecture and backend logic
+
+Continue delivering meaningful results for real-world businesses
+
+Constantly improve my code, my thinking, and my impact
