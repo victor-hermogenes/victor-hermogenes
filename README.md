@@ -9,6 +9,7 @@ Currently, I’m expanding my work in API integrations, SaaS automation, and sma
 - **LinkedIn**: [Victor Gonzalez Hermogenes](https://br.linkedin.com/in/victor-gonzalez-hermogenes-449789193)
 - **Facebook**: [Victor Hermos](https://www.facebook.com/Victor.Hermos/)
 - **Email**: victorltrgh@gmail.com
+- **Gitlab**: [Victor G. Hermogenes](https://gitlab.com/victor-hermogenes)
 - **Phone**: +55 47 99151-7762
 
 ## Skills
