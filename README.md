@@ -35,3 +35,7 @@ Currently, I’m expanding my work in API integrations, SaaS automation, and sma
 - Feel free to reach out if you'd like to collaborate on a project, or if you just want to chat about tech and programming!
 
 Thanks for visiting my profile!
+
+![Victor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-hermogenes&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hermogenes&layout=compact&theme=tokyonight)
