@@ -1,5 +1,4 @@
 <div align="center">
-dummy
 
 # Hey there, I'm **Victor Gonzalez Hermogenes**
 
