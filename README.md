@@ -15,7 +15,7 @@ I build real-world solutions that **reduce manual work**, **eliminate inefficien
 
 Currently exploring:
 > 🧩 **API integrations**, **SaaS automation**, and **smart back-office systems**.  
-Whether it’s scripting, fixing, testing, or building from scratch — I’m all in.
+Whether it’s scripting, fixing, testing, or building from scratch. I’m all in.
 
 ---
 
