@@ -46,6 +46,7 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Deluge%20(Zoho)-D92A2A?style=for-the-badge&logo=zoho&logoColor=white" />
   <img src="https://img.shields.io/badge/NFe%20Automation-007ACC?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/NFSe%20Automation-007ACC?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 ---
