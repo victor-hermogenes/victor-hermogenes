@@ -14,14 +14,14 @@ My strongest tool is **Python**, but I also work with **JavaScript**, **SQL**, *
 I build real-world solutions that **reduce manual work**, **eliminate inefficiencies**, and **make teams run smoother**.
 
 Currently exploring:
-> 🧩 **API integrations**, **SaaS automation**, and **smart back-office systems**.  
+>  **API integrations**, **SaaS automation**, and **smart back-office systems**.  
 Whether it’s scripting, fixing, testing, or building from scratch. I’m all in.
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages & Frameworks
+####  Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,7 +31,7 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🧩 Platforms & Tools
+####  Platforms & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Zoho-CC0000?style=for-the-badge&logo=zoho&logoColor=white" />
   <img src="https://img.shields.io/badge/Wrike-00B8A9?style=for-the-badge&logo=wrike&logoColor=white" />
@@ -41,7 +41,7 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-#### ⚡ Automation & APIs
+####  Automation & APIs
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Deluge%20(Zoho)-D92A2A?style=for-the-badge&logo=zoho&logoColor=white" />
@@ -51,26 +51,26 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
 
 ---
 
-### 📬 Contact Me
+###  Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/victor-gonzalez-hermogenes-449789193)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Victor.Hermos/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/victor-hermogenes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorltrgh@gmail.com)
 
-📞 **+55 47 99151-7762**
+ **+55 47 99151-7762**
 
 ---
 
-### 💡 Interests
+###  Interests
 
-💬 Clean code, efficient processes, and practical automation.  
-🔧 Building systems that **remove repetitive work** and **boost productivity**.  
-🤝 Collaborating with people who **solve problems, not just write code**.
+ Clean code, efficient processes, and practical automation.  
+ Building systems that **remove repetitive work** and **boost productivity**.  
+ Collaborating with people who **solve problems, not just write code**.
 
 ---
 
-### 🎯 Goals
+###  Goals
 
 - Sharpen my automation & integration expertise  
 - Explore scalable backend architecture  
@@ -79,7 +79,7 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Victor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-hermogenes&show_icons=true&theme=tokyonight&rank_icon=github)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hermogenes&layout=compact&theme=tokyonight)  
@@ -87,6 +87,6 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
 
 ---
 
-💬 *"Automate the boring. Simplify the complex. Build what matters."*
+ *"Automate the boring. Simplify the complex. Build what matters."*
 
 </div>
