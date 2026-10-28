@@ -90,3 +90,4 @@ Whether it’s scripting, fixing, testing, or building from scratch. I’m all i
  *"Automate the boring. Simplify the complex. Build what matters."*
 
 </div>
+
